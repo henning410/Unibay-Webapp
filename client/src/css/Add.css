@@ -1,0 +1,7 @@
+.addContainer {
+  margin-top: 84px;
+  padding-left: 0;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+}
